@@ -1,0 +1,6 @@
+/Users/veraweikel/mysrc/vue/FoodTracker/food-tracker/src/food-records/obj/Debug/netcoreapp3.0/food-records.csprojAssemblyReference.cache
+/Users/veraweikel/mysrc/vue/FoodTracker/food-tracker/src/food-records/obj/Debug/netcoreapp3.0/staticwebassets/food-records.StaticWebAssets.Manifest.cache
+/Users/veraweikel/mysrc/vue/FoodTracker/food-tracker/src/food-records/obj/Debug/netcoreapp3.0/staticwebassets/food-records.StaticWebAssets.xml
+/Users/veraweikel/mysrc/vue/FoodTracker/food-tracker/src/food-records/obj/Debug/netcoreapp3.0/food-records.MvcApplicationPartsAssemblyInfo.cache
+/Users/veraweikel/mysrc/vue/FoodTracker/food-tracker/src/food-records/obj/Debug/netcoreapp3.0/food-records.AssemblyInfoInputs.cache
+/Users/veraweikel/mysrc/vue/FoodTracker/food-tracker/src/food-records/obj/Debug/netcoreapp3.0/food-records.AssemblyInfo.cs
