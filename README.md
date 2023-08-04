@@ -1,4 +1,5 @@
 # Food Tracker 
+#### authored by Vera Weikel
 
 An app built using Vue interface with a C# engine.
 
