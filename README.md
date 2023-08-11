@@ -24,4 +24,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Contact 
 
-![Vera W.](vera.weikel@gmail.com)
+[Vera](vera.weikel@gmail.com)
